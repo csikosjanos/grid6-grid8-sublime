@@ -9,7 +9,7 @@ which based on [this gist](https://gist.github.com/3046228) by @5eleven
 Install
 -------
 
-* `git clone https://github.com/csikosjanos/grid6-sublime.git` in your Sublime Text 2 Packages folder.
+* `git clone https://github.com/csikosjanos/grid6-grid8-sublime.git` in your Sublime Text 2 Packages folder.
 
 Usage
 -----
